@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/plays"
+        android:title="Play sound" />
+    <item
+        android:id="@+id/stops"
+        android:title="Stop sound" />
+    <item
+        android:id="@+id/listMenu"
+        android:title="List" />
+</menu>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/m_add_new"
+        android:title="Add" />
+    <item
+        android:id="@+id/m_sort_by_name"
+        android:title="Sort by name" />
+    <item
+        android:id="@+id/m_sort_by_score_o"
+        android:title="Score over 5" />
+    <item
+        android:id="@+id/m_sort_by_score_u"
+        android:title="Score under 5" />
+    <item
+        android:id="@+id/m_highest_score"
+        android:title="Highest score" />
+    <item
+        android:id="@+id/m_Reset"
+        android:title="Reset" />
+</menu>
